@@ -19,3 +19,5 @@
 155.248.209.22/32
 # Lucky Systems is also a scanner that scans but warns for griefers
 23.88.49.137/32
+# Abusive (said ipinfo)
+185.204.1.184/32
