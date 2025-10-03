@@ -21,3 +21,5 @@
 23.88.49.137/32
 # Abusive (said ipinfo)
 185.204.1.184/32
+# Minecraft Server scanner, abusive
+95.111.227.12/32
