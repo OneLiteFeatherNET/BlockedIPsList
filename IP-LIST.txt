@@ -128,3 +128,7 @@
 45.95.147.0/24
 # Hayashimo LLC
 23.168.216.0/24
+# Shodan ips
+207.90.244.0/24
+# Microsoft abused flagged (ipinfo)
+13.89.125.25/32
