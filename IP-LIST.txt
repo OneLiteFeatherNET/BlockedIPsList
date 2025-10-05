@@ -132,3 +132,5 @@
 207.90.244.0/24
 # Microsoft abused flagged (ipinfo)
 13.89.125.25/32
+# Shodan / censys
+209.38.70.156/32
