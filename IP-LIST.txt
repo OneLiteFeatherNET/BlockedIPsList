@@ -132,7 +132,9 @@
 207.90.244.0/24
 # Microsoft abused flagged (ipinfo)
 13.89.125.25/32
-# Shodan / censys
+# temporary hopefully. Might be portscan
+79.238.117.30/32
+
 209.38.70.156/32
 # Hetzner Tracker
 116.202.55.208/32
