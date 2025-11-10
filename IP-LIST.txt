@@ -134,6 +134,8 @@
 13.89.125.25/32
 # temporary hopefully. Might be portscan
 79.238.117.30/32
+# DMZHost
+45.148.10.0/24
 
 209.38.70.156/32
 # Hetzner Tracker
