@@ -146,3 +146,5 @@
 79.238.123.186/32
 # Minecraft Server Tracking / unknown host
 23.162.40.0/24
+# CDN77 _ Tracking
+79.127.217.39/24
