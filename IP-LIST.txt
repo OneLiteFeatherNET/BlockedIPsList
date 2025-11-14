@@ -148,3 +148,7 @@
 23.162.40.0/24
 # CDN77 _ Tracking
 79.127.217.39/24
+# mvsrvstat.us server
+172.104.152.224/32
+# probably tracker
+45.129.56.142/32
