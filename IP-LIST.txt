@@ -165,3 +165,5 @@
 71.73.78.114/32
 # breakblocks serverseeker
 51.81.208.11/32
+# another tracker host from japan
+194.114.136.0/24
