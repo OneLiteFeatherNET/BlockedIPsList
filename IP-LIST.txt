@@ -167,3 +167,5 @@
 51.81.208.11/32
 # another tracker host from japan
 194.114.136.0/24
+# tracking
+193.32.249.0/24
