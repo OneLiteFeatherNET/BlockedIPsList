@@ -165,5 +165,7 @@
 51.81.208.11/32
 # another tracker host from japan
 194.114.136.0/24
+# OWL
+103.136.147.155/32
 # tracking
 193.32.249.0/24
