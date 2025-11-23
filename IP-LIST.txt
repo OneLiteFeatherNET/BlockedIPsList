@@ -202,3 +202,134 @@
 142.147.89.192/26  
 45.8.223.192/26  
 185.225.28.144/28
+# shodan.io from ipfire.org/docs/configuration/firewall/blockshodan
+208.180.20.97/32
+# census1.shodan.io
+198.20.69.74/32
+# census2.shodan.io
+198.20.69.98/32
+# census3.shodan.io
+198.20.70.114/32
+# census4.shodan.io
+198.20.99.130/32
+# census5.shodan.io
+93.120.27.62/32
+# census6.shodan.io
+66.240.236.119/32
+# census7.shodan.io
+71.6.135.131/32
+# census8.shodan.io
+66.240.192.138/32
+# census9.shodan.io
+71.6.167.142/32
+# census10.shodan.io
+82.221.105.6/32
+# census11.shodan.io
+82.221.105.7/32
+# census12.shodan.io
+71.6.165.200/32
+# atlantic.census.shodan.io
+188.138.9.50/32
+# pacific.census.shodan.io
+85.25.103.50/32
+# rim.census.shodan.io
+85.25.43.94/32
+# pirate.census.shodan.io
+71.6.146.185/32
+# ninja.census.shodan.io
+71.6.158.166/32
+# border.census.shodan.io
+198.20.87.98/32
+# burger.census.shodan.io
+66.240.219.146/32
+# atlantic.dns.shodan.io
+209.126.110.38/32
+# blog.shodan.io
+104.236.198.48/32
+# hello.data.shodan.io
+104.131.0.69/32
+# www.shodan.io
+162.159.244.38/32
+# battery.census.shodan.io
+93.174.95.106/32
+# cloud.census.shodan.io
+94.102.49.193/32
+# dojo.census.shodan.io
+80.82.77.139/32
+# flower.census.shodan.io
+94.102.49.190/32
+# goldfish.census.shodan.io
+185.163.109.66/32
+# house.census.shodan.io
+89.248.172.16/32
+# inspire.census.shodan.io
+71.6.146.186/32
+# mason.census.shodan.io
+89.248.167.131/32
+# ny.private.shodan.io
+159.203.176.62/32
+# turtle.census.shodan.io
+185.181.102.18/32
+# sky.census.shodan.io
+80.82.77.33/32
+# shodan.io (PTR only)
+216.117.2.180/32
+# einstein.census.shodan.io
+71.6.199.23/32
+# hat.census.shodan.io
+185.142.236.34/32
+# red.census.shodan.io
+185.165.190.34/32
+# soda.census.shodan.io
+71.6.135.131/32
+# wine.census.shodan.io
+185.142.236.35/32
+# wall.census.shodan.io
+66.240.219.133/32
+# floss.census.shodan.io
+143.198.225.197/32
+# dog.census.shodan.io
+137.184.95.216/32
+# draft.census.shodan.io
+64.227.90.185/32
+# can.census.shodan.io
+143.198.238.87/32
+# jug.census.shodan.io
+137.184.112.192/32
+# elk.census.shodan.io
+137.184.190.188/32
+# tab.census.shodan.io
+167.172.219.157/32
+# buffet.census.shodan.io
+143.110.239.2/32
+# deer.census.shodan.io
+143.198.68.20/32
+# sparkle.census.shodan.io
+137.184.190.194/32
+# fish.census.shodan.io
+137.184.190.246/32
+# heimdal.scan6x.shodan.io
+137.184.9.17/32
+# gravy.scanf.shodan.io
+137.184.13.100/32
+# scanme.scanf.shodan.io
+137.184.94.133/32
+# frame.census.shodan.io
+137.184.112.103/32
+# collector.chrono.shodan.io
+137.184.180.190/32
+# ships.data.shodan.io
+143.198.50.234/32
+# green.census.shodan.io
+185.142.236.36/32
+# blue.census.shodan.io
+185.142.236.40/32
+# guitar.census.shodan.io
+185.142.236.41/32
+# blue2.census.shodan.io
+185.142.236.43/32
+# red2.census.shodan.io
+185.142.239.16/32
+# Shodans own /24
+207.90.244.0/24
+
