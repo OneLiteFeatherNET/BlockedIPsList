@@ -345,4 +345,6 @@
 185.142.239.16/32
 # Shodans own /24
 207.90.244.0/24
+# Some phishing service from south korea
+43.155.179.100/32
 
