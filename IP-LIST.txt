@@ -349,4 +349,5 @@
 43.155.179.100/32
 # Known minecraft server crawler
 193.32.126.225/32
-
+# Data bridge limited
+23.160.24.0/24
