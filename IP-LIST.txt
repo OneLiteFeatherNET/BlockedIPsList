@@ -347,4 +347,6 @@
 207.90.244.0/24
 # Some phishing service from south korea
 43.155.179.100/32
+# Known minecraft server crawler
+193.32.126.225/32
 
