@@ -367,3 +367,5 @@
 193.32.248.247/32
 # Cloudsingularity
 38.240.225.79/32
+# Ultahost, Inc., pings with 1.19.1
+192.142.45.175/32
