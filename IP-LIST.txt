@@ -369,3 +369,5 @@
 38.240.225.79/32
 # Ultahost, Inc., pings with 1.19.1
 192.142.45.175/32
+# Contabo Server pinging with 1.19.1
+86.48.29.72/32
