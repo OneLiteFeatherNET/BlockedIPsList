@@ -392,6 +392,7 @@
 23.176.184.152/32
 # malicious
 40.119.29.137/32
-# minecraft server seeker
+# minecraft server scanner
 146.70.184.149/32
 185.204.1.186/32
+208.77.244.93/32
