@@ -9,3 +9,6 @@ If you find any ip addresses that are not in this list, please let us know in a 
 
 Also if your server is in this list, open a Pull Request with the ip address, be sure to stop the unwanted traffic from your server and promise it in the PR.
 
+If you search for more ip addresses, check out these lists as well:
+- https://github.com/pebblehost/hunter/blob/master/ips.txt
+
