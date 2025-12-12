@@ -400,3 +400,5 @@
 116.202.58.68/32
 # Microsoft hosted minecraft server scanner
 207.46.224.85/32
+# another server scanner for minecraft
+185.204.1.186/32
