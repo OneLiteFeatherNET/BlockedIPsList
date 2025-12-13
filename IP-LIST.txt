@@ -402,3 +402,6 @@
 207.46.224.85/32
 # another server scanner for minecraft
 185.204.1.186/32
+173.212.243.164/32
+# Internet Measurement host
+185.247.137.0/24
