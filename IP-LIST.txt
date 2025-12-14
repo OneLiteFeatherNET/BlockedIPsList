@@ -405,7 +405,8 @@
 173.212.243.164/32
 # Internet Measurement host
 185.247.137.0/24
-# Scanner
+# Minecraft Server Scanner
 194.26.192.222/32
+185.241.206.91/32
 # temp ban, unknown ping
 84.188.200.112/32
