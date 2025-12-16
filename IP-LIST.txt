@@ -408,5 +408,4 @@
 # Minecraft Server Scanner
 194.26.192.222/32
 185.241.206.91/32
-# temp ban, unknown ping
-84.188.200.112/32
+45.83.31.38/32
