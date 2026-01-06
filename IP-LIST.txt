@@ -425,3 +425,7 @@
 144.126.143.9/32
 # france scanner, scw.cloud
 51.159.149.103/32
+# fixed line minecraft server scanner
+141.98.255.143/32
+# portscanner
+143.198.150.150/32
