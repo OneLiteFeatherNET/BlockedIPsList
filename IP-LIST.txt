@@ -435,3 +435,5 @@
 # worldstream bruteforcing
 212.8.249.217/32
 212.8.243.130/32
+# mc server scanner
+141.98.254.173/32
