@@ -437,3 +437,7 @@
 212.8.243.130/32
 # mc server scanner
 141.98.254.173/32
+141.98.255.151/32
+# microsoft - but looks suspicious as it pings with 1.19.1 as a server
+135.119.112.69/32
+20.64.106.155/32
