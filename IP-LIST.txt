@@ -445,3 +445,5 @@
 86.54.30.165/32
 # blix server scanner
 91.90.44.21/32
+# annddd... another one but 1.8
+148.230.80.5/32
