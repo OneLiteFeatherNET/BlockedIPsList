@@ -441,3 +441,5 @@
 # microsoft - but looks suspicious as it pings with 1.19.1 as a server
 135.119.112.69/32
 20.64.106.155/32
+# black host minecraft server scanner / port scan
+86.54.30.165/32
