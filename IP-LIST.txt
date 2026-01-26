@@ -443,3 +443,5 @@
 20.64.106.155/32
 # black host minecraft server scanner / port scan
 86.54.30.165/32
+# blix server scanner
+91.90.44.21/32
