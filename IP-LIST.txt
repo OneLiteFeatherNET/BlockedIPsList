@@ -447,3 +447,7 @@
 91.90.44.21/32
 # annddd... another one but 1.8
 148.230.80.5/32
+# services AB minecraft server scanner
+141.98.255.152/32
+# do not trust palo alto, as they had an incident regarding their firewall
+198.235.24.0/24
