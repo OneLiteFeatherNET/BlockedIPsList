@@ -468,3 +468,7 @@
 87.236.176.186/32
 # chinese server, portscan
 106.75.12.244/32
+# 1.7 ping from hetzner server
+138.201.31.198/32
+# other
+172.235.181.217/32
