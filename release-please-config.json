@@ -8,5 +8,6 @@
       "package-name": "BlockedIPsList",
       "changelog-path": "CHANGELOG.md"
     }
-  }
+  },
+  "bootstrap-sha": "5655c3564a05863550bae50d86c2607c6276a35d"
 }
