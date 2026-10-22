@@ -486,3 +486,17 @@
 31.77.13.0/24
 # unesty company
 181.214.99.0/24
+# Oracle Cloud; ping pair every ~17 min, 24/7, ~150 pings/day – scanner/tracker
+132.226.86.114/32
+# ping pair every ~30 min, 24/7 – scanner/tracker
+31.77.13.178/32
+# ping pair every ~1.5 h, 24/7, hosting/VPN range – scanner/tracker
+181.214.99.82/32
+# DigitalOcean; one-off scan at 00:44 – scanner
+64.23.161.101/32
+# DigitalOcean; one-off scan at 18:11 – scanner
+164.92.82.91/32
+# DigitalOcean; one-off scan at 18:12 – scanner
+146.190.153.30/32
+# 2 simultaneous pings at 20:10, one-off – probably a manual status tool
+87.71.141.63/32
