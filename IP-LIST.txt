@@ -482,3 +482,5 @@
 45.138.12.0/24
 # oracle public cloud, mcserver scanner
 132.226.0.0/16
+# play2go ccloud server sccanner
+31.77.13.0/24
