@@ -1,0 +1,13 @@
+{
+  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
+  "release-type": "simple",
+  "include-component-in-tag": false,
+  "include-v-in-tag": true,
+  "packages": {
+    ".": {
+      "package-name": "BlockedIPsList",
+      "changelog-path": "CHANGELOG.md"
+    }
+  },
+  "bootstrap-sha": "5655c3564a05863550bae50d86c2607c6276a35d"
+}
